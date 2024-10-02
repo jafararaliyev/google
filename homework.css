@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: dodgerblue;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    padding-top: 150px;
+    color: white;
+    font-weight: 600;
+}
+.search{
+    width: 70%;
+    height: 50px;
+    background-color: white;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 50px;
+    display: flex;
+}
+.search1{
+  font-size: 30px;
+  margin-left: 20px;  
+  margin-top: 10px;
+}
+.micraphone{
+    font-size: 30px;
+    margin-left: 20px;  
+    margin-top: 10px;
+  
+  }
+  .camera{
+    font-size: 30px;
+    margin-left: 30px;  
+    margin-top: 10px;
+  }
+  .dumaloq1{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 30%;
+    display: flex;
+    color: black;
+  }
+  .dumaloq1:hover{
+    background-color: #ffffff20;
+    width: 50px;
+    
+  }
+  .dumaloq2{
+    font-size: 50px;
+    margin-top: -55px;
+    margin-left: 45%;
+   color: red;
+  }
+  .dumaloq2:hover{
+    background-color: #ffffff20;
+    width: 50px;
+  }
+  .dumaloq3{
+    font-size: 50px;
+    margin-top: -55px;
+    margin-left: 60%;
+color: red;
+  }
+  .dumaloq3:hover{
+    background-color: #ffffff20;
+    width: 50px;
+  }
